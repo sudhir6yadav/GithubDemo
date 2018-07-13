@@ -13,6 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         char data=64;
 
+        int i='A'+1;
+
+
+
+        System.out.println("hello"+data);
         System.out.println("hello"+data);
     }
 }
