@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
         int k='A'+4;
 
+        int m='A'+5;
+
         System.out.println("hello"+i);
         System.out.println("hello"+j);
     }
