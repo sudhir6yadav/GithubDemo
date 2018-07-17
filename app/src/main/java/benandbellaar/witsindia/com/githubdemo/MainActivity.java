@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
 
         int j='A'+2;
 
-        int k='A'+4;
+        int k='A'+6;
 
 
-        int l='A'+5;
+        int l='A'+6;
 
         int m='A'+7;
 
