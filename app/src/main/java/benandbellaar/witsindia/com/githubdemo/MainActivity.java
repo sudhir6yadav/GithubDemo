@@ -9,22 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
-        char data=64;
-
-        int i='A'+1;
-
-        int j='A'+2;
-
-        int k='A'+6;
-
-
-        int l='A'+6;
-
-        int m='A'+7;
-
-        System.out.println("hello"+i);
-        System.out.println("hello"+j);
+        
     }
 }
